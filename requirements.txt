@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+openpyxl
+#pip install streamlit pandas matplotlib seaborn openpyxl
+#python.exe -m pip install --upgrade pip 
